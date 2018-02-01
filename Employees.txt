@@ -1,0 +1,20 @@
+2014 Employee Smith,John 2000
+2015 Employee Jordan,Micheal 1000
+2014 Salesman Hernandez,Edilson 5000 10000000
+2015 Salesman Williams,Vanessa 3000 25000
+2014 Executive Costa,Cazzandra 8000 53
+2015 Salesman Durant,Kevin 2500 37500
+2014 Executive Saxton,Byron 5000 40
+2015 Employee Potter,Harry 500
+2014 Salesman Graves,Corey 2000 25888
+2015 Employee Weasley,Ron 600
+2014 Employee Cena,John 5000 100000
+2015 Salesman Ward,Kenneth 6600 78641
+2014 Salesman Johnson,Wayne 2000 498749
+2015 Executive Fuentes,Oscar 10000 50
+2014 Salesman Brooke,Dana 5000 100000
+2015 Employee Ketchum,Ash 1630
+2014 Employee Michella,Candice 2000
+2015 Executive McMahon,Vince 8000 70
+2014 Salesman Leverett,Victoria 5000 100000
+2015 Employee Messi,Lionel 7000
